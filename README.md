@@ -1,3 +1,3 @@
 # Description
 
-This partition of the repository contains code I wrote for my programming languages course. I enjoyed taking this course quite a bit since it let me do three of my favourite things: programming, problem solving, and language learning.
+This repository contains source code and brief descriptions on cool code I wrote during my comparative programming languages course for assignments. I absolutely adored taking this course, and treasured the time I spent with my favourite professor (R.S.). Taking this course was a fun excuse for me to do the things I love: programming, problem solving, and programming language learning.
