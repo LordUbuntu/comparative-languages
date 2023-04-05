@@ -1,5 +1,4 @@
 (* Name: Jacobus Burger             *)
-(* Student ID: 556652               *)
 (* CMPT 360 A, Spring 2021          *)
 (* Lab Assignment 2                 *)
 (* Quicksort with Python and Pascal *)
