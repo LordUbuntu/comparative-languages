@@ -4,6 +4,6 @@ This repository contains source code and brief descriptions on cool code I wrote
 
 ## Tour
 
-* [Language Selection](https://github.com/LordUbuntu/comparative-languages/blob/main/language_selection.md)
+* [Language Selection](https://github.com/LordUbuntu/comparative-languages/blob/main/language_selections.md)
 
 This is a list I made in preparation for the course to make it easy to select cool and interesting programming languages during the course duration. Admittedly, I mostly made it because I wanted to collect novel programming languages like players collect pokemon.
