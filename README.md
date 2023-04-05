@@ -16,3 +16,17 @@ This is a list I made in preparation for the course to make it easy to select co
   * [Lab 5](https://github.com/LordUbuntu/comparative-languages/tree/main/Lab%205)
   * [Lab 6](https://github.com/LordUbuntu/comparative-languages/tree/main/Lab%206)
   * [Lab 7](https://github.com/LordUbuntu/comparative-languages/tree/main/Lab%207)
+
+
+
+A summary of the thing's done for the course:
+
+| Assign # | Date Due | Group(s) | Langauge $$\alpha$$ | Language $$\beta$$ | Platform |
+|---|---|---|---|---|---|
+| 1 | Mon Week III |   | Python 3.8 | Fortran 95 | Linux |
+| 2 | Mon Week V |   | Python 3.7 | Free Pascal | Free BSD |
+| 3 | Mon Week VII |   | Rust | Python | Windows 10 |
+| 4 | Mon Week IX |   | Ada (2012) | Crystal | Linux |
+| 5 | Fri Week X |   | Nim |  | Linux |
+| 6 | Fri Week XII |   | Python 3.8 |  | Linux |
+| 7 | Mon Week XIV |   | Python 3.8 |  | Linux |
